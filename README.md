@@ -2,7 +2,7 @@
 Project Overview
 This project explores a pizza sales database to answer a set of questions that help understand the operational performance, product trends, customer behavior, and revenue insights for a pizza business. Using SQL, the project analyzes various aspects of the data to derive meaningful conclusions that can guide business decisions.
 <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="Pizza_pic.jpeg">
 </p>
 
 
